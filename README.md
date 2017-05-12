@@ -6,3 +6,6 @@ basic folder structure includes:
 - font awesome
 - jQuery
 - All Locally 
+
+# Write code on main.css and main.js
+- Those are the custom files!
